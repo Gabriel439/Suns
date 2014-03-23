@@ -38,7 +38,7 @@ SAVE_SUFFIX    = 'save'    # The suffix for saved results
 SUNS_DEFAULT_GROUP_NAME = 'suns' # The default group name which will contain
                                  # results, context, saves, etc.
 
-SUNS_SERVER_ADDRESS = '66.175.216.49' # The default message queue host
+SUNS_SERVER_ADDRESS = 'suns.degradolab.org' # The default message queue host
 
 CYCLIC_SELECT = '_CYCLIC'
 AAS = ['ALL', 'GLY','ALA','VAL','LEU','ILE',
